@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-  
+  printf("fgxghxcx\n");
   return 0;
 }
 
