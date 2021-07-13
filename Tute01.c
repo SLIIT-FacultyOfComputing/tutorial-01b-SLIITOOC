@@ -9,6 +9,10 @@ int main() {
  printf("Enter two Marks : ");
  scanf("%d %d", &m1, &m2);
 
+  printf("Enter two Marks : ");
+   printf("Enter two Marks : ");
+    printf("Enter two Marks : ");
+
   return 0;
 }
 
