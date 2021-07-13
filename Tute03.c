@@ -13,7 +13,10 @@ sum = 1+2+3+...+10 = 55 */
 
 #include <stdio.h>
 int main() {
-  
+  printf("Hello world");
+  printf("Hello world");
+  printf("Hello world");
+  printf("Hello world");
   return 0;
 }
 
