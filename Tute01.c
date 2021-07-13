@@ -5,7 +5,10 @@
 #include <stdio.h>
 
 int main() {
-  printf("fgxghxcx\n");
+  int m1, m2;
+ printf("Enter two Marks : ");
+ scanf("%d %d", &m1, &m2);
+
   return 0;
 }
 
