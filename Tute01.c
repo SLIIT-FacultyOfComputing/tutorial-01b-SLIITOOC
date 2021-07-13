@@ -5,14 +5,14 @@
 #include <stdio.h>
 
 int main() {
+ 
  int m1, m2;
 
- printf("Enter two marks : ");
+ printf("Enter two numbers : ");
  scanf("%d %d", &m1, &m2);
 
-printf("Enter two marks : ");
-printf("Enter two marks : ");
-printf("Enter two marks : ");
+ 
+
   return 0;
 }
 
