@@ -6,10 +6,12 @@
 
 int main() {
  
- int m1, m2;
+  int mark1, mark2;
+  float average;
 
- printf("Enter two numbers : ");
- scanf("%d %d", &m1, &m2);
+  printf("Enter two marks : ");
+  scanf("%d %d", &mark1, &mark2);
+
 
  
 
